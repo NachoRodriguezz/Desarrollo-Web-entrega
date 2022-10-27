@@ -7,7 +7,7 @@ header nav {
         ul {
             display: flex;
             flex-direction: row;
-            justify-content: space-between;
+            justify-content: flex-end;
             align-items: center;
             flex: auto;
             margin: 0 10px;
@@ -16,3 +16,13 @@ header nav {
                 text-decoration: none;
                 color: white; 
 } } } ; 
+
+.img-navbar{
+    width: 60px;
+    margin: auto;
+
+}
+
+.img-navbar2{
+    width: 100%;
+}

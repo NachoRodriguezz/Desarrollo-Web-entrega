@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+body {
+    position: relative;
+    padding-bottom: 3em;
+    min-height: 100vh;
+}
+
 h1 {
 /*     background-color: rgb(69, 147, 188);  */
     font-size: 30px;
