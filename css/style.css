@@ -17,6 +17,10 @@ h2 {
   border-radius: 10px;
   box-shadow: 0px 5px black; }
 
+h3 {
+  font-size: 20px;
+  text-decoration: underline; }
+
 header nav {
   position: sticky;
   display: flex;
